@@ -1,3 +1,7 @@
-# File Metadata Microservice
+# API Project: File Metadata Microservice 
 
-This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+__for [FreeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice)__
+
+[Click](https://file-metadata-grivdm.glitch.me/)
+
++ When you submit a file, you receive the file ```name```, ```type```, and ```size``` in bytes within the JSON response. e.g. ```{"name":"bkg-blu.jpg","type":"image/jpeg","size":289940}```
